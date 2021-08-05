@@ -93,7 +93,7 @@
 	</dependencyManagement>
 
 	<build>
-		<finalName>refillServicd</finalName>
+		<finalName>refillService</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
